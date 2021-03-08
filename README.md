@@ -7,7 +7,7 @@ PyCaret makes it easier for you. It acts as a wrapper around the most popular Ma
 
 To install PyCaret you can use pip as below
 
-pip install pycaret
+### pip install pycaret
 
 With PyCaret you can easily do
 
